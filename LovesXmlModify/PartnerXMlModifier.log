@@ -1,0 +1,22 @@
+Dec 08, 2015 12:15:14 PM com.loves.partner.LovesPartnerXmlMain checkXMLFiles
+INFO: Input Directory not present!!
+Dec 08, 2015 12:15:14 PM com.loves.partner.LovesPartnerXmlMain getDirectory
+INFO: Exception : java.lang.NullPointerException
+Dec 08, 2015 12:16:53 PM com.loves.partner.LovesPartnerXmlMain checkXMLFiles
+INFO: vendor.xml
+Dec 08, 2015 12:16:53 PM com.loves.partner.XmlParser readAndReplace
+INFO: Exception : org.xml.sax.SAXParseException; systemId: file:/C:/Users/asmitam/Desktop/INPUT/vendor.xml; lineNumber: 4; columnNumber: 50; The element type "item" must be terminated by the matching end-tag "</item>".
+Dec 08, 2015 12:17:45 PM com.loves.partner.LovesPartnerXmlMain checkXMLFiles
+INFO: vendor.xml
+Dec 08, 2015 2:45:14 PM com.loves.partner.LovesPartnerXmlMain checkXMLFiles
+INFO: vendor.xml
+Dec 08, 2015 2:45:14 PM com.loves.partner.XmlParser readAndReplace
+INFO: Exception : org.xml.sax.SAXParseException; systemId: file:/C:/Users/asmitam/Desktop/INPUT/vendor.xml; lineNumber: 4; columnNumber: 50; The element type "item" must be terminated by the matching end-tag "</item>".
+Dec 08, 2015 2:46:12 PM com.loves.partner.LovesPartnerXmlMain checkXMLFiles
+INFO: vendor.xml
+Dec 09, 2015 9:46:30 AM com.loves.partner.LovesPartnerXmlMain checkXMLFiles
+INFO: LFA1_vendor.xml
+Dec 09, 2015 9:47:12 AM com.loves.partner.LovesPartnerXmlMain checkXMLFiles
+INFO: vendor.xml
+Dec 09, 2015 9:47:12 AM com.loves.partner.XmlParser readAndReplace
+INFO: Exception : org.xml.sax.SAXParseException; systemId: file:/C:/Users/asmitam/Desktop/INPUT/vendor.xml; lineNumber: 4; columnNumber: 50; The element type "item" must be terminated by the matching end-tag "</item>".
